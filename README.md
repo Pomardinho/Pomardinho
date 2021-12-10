@@ -9,7 +9,7 @@
 🌐 Network services<br>
 💾 Operating systems<br>
 🖥️ Computer assembly<br>
-➥ HTML5, CSS, JavaScript, C#
+🕹 HTML5, CSS, JavaScript, C#
 
 ## 📎• Projects
 <dl>
