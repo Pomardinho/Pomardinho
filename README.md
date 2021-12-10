@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center"> { Welcome to Pomardinho's profile } </h1>
 
-<!--
-**Pomardinho/Pomardinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 • About me
+📍 Terrassa, BCN <br>
+🤩 Best life ever | JW <br>
+📆 25/7/21 <br>
 
-Here are some ideas to get you started:
+### 📖 • Studying
+<dl>
+  <dd>➥ Network services</dd>
+  <dd>➥ Operating systems</dd>
+  <dd>➥ Computer assembly</dd>
+  <dd>➥ HTML5, CSS, JavaScript, C#</dd>
+</dl>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📎 • Projects
+
+## 💻 • Statistics 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pomardinho&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pomardinho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
