@@ -1,4 +1,4 @@
-<h1 align="center"> { Welcome to Pomardinho's profile } </h1>
+<h1 align="center">{ Welcome to Pomardinho's profile }</h1>
 
 ## 👤 • About me
 📍 Terrassa, BCN <br>
@@ -14,10 +14,11 @@
 </dl>
 
 ### 📎 • Projects
-JW Oficial discord bot
+<dl>
+	<dd><a href="">↳ JW Oficial discord bot</a></dd>
+</dl>
 
 ## 💻 • Statistics 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pomardinho&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pomardinho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
