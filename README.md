@@ -11,7 +11,7 @@
 🖥️ Computer assembly<br>
 ➥ HTML5, CSS, JavaScript, C#
 
-## 📎 • Projects
+## 📎• Projects
 <dl>
 	<dd><a href="">↳ JW Oficial discord bot</a></dd>
 </dl>
