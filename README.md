@@ -14,6 +14,7 @@
 </dl>
 
 ### 📎 • Projects
+JW Oficial discord bot
 
 ## 💻 • Statistics 
 
