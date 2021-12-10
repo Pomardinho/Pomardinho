@@ -7,10 +7,10 @@
 
 ### 📖 • Studying
 <dl>
-  <dd>➥ Network services</dd>
-  <dd>➥ Operating systems</dd>
-  <dd>➥ Computer assembly</dd>
-  <dd>➥ HTML5, CSS, JavaScript, C#</dd>
+	<dd>➥ Network services</dd>
+	<dd>➥ Operating systems</dd>
+  	<dd>➥ Computer assembly</dd>
+  	<dd>➥ HTML5, CSS, JavaScript, C#</dd>
 </dl>
 
 ### 📎 • Projects
