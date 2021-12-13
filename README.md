@@ -21,7 +21,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pomardinho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
-
-<footer>
-	<p>Visit JW.org</p>	
-</footer>
