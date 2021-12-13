@@ -13,12 +13,15 @@
 
 ## 📎• Projects
 <dl>
-	<dd><a href="">↳ JW Oficial discord bot</a></dd>
+	<dd><a href="https://github.com/Pomardinho/jw_oficial">↳ JW Oficial discord bot</a></dd>
 </dl>
 
 ## 💻 • Statistics 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pomardinho&show_icons=true&theme=radical)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pomardinho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Flechita: ➥ -->
 <!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
+
+<footer>
+	<p>Visit JW.org</p>	
+</footer>
