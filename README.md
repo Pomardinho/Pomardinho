@@ -13,7 +13,7 @@
 
 ## 📎 • Projects
 <dl>
-	<dd>Working on a personal Discord bot and it's own dashboard</dd>
+	<dd>• Working on a personal Discord bot and it's own dashboard</dd>
 </dl>
 
 ## 💻 • Statistics 
