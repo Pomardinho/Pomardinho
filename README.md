@@ -13,7 +13,7 @@
 
 ## 📎 • Projects
 <dl>
-	<dd><a href="https://github.com/Pomardinho/jw_oficial">↳ JW Oficial discord bot</a></dd>
+	<dd>Working on a personal Discord bot and it's own dashboard</dd>
 </dl>
 
 ## 💻 • Statistics 
