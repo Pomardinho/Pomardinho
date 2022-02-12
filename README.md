@@ -3,7 +3,7 @@
 ## 👤 • About me
 📍 Terrassa, BCN <br>
 🤩 Best life ever | JW <br>
-📆 25/7/21
+📆 25/7/21 <br>
 💻 Self-taught programmer
 
 ## 📖 • Studying
