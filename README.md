@@ -1,7 +1,7 @@
 <h1 align="center">{ Welcome to Pomardinho's profile }</h1>
 
 ## 👤 • About me
-📍 Terrassa, BCN <br>
+📍 Terrassa, Barcelona <br>
 🤩 Best life ever | JW <br>
 📆 25/7/21 <br>
 💻 Self-taught programmer
