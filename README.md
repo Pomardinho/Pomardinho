@@ -4,6 +4,7 @@
 📍 Terrassa, BCN <br>
 🤩 Best life ever | JW <br>
 📆 25/7/21
+💻 Self-taught programmer
 
 ## 📖 • Studying
 🌐 Network services<br>
