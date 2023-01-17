@@ -10,7 +10,7 @@
 🌐 Network services<br>
 💾 Operating systems<br>
 🖥️ Computer assembly<br>
-🕹 HTML5, CSS, JavaScript, C#
+🕹 C#, Java, Javascript, MySQL
 
 ## 📎 • Projects
 <dl>
