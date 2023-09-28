@@ -15,7 +15,7 @@
 
 ## 📎 • Projects
 <dl>
-	<dd>↳ Nothing, at the moment...</dd>
+	<dd>↳ Nothing, at least right now...</dd>
 </dl>
 
 <!-- ## 📈 • Statistics 
