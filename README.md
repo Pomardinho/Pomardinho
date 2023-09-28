@@ -6,15 +6,16 @@
 📆 25/7/21 <br>
 💻 Self-taught programmer
 
-## 📖 • Studying
+## 📖 • Studies
 🌐 Network services<br>
 💾 Operating systems<br>
 🖥️ Computer assembly<br>
-🕹 C#, Java, Javascript, MySQL
+👀 Multiplatform applications<br>
+🕹 Java, Javascript, MySQL, HTML, CSS, C#
 
 ## 📎 • Projects
 <dl>
-	<dd>↳ Working on my own Discord bot and it's dashboard</dd>
+	<dd>↳ Nothing, at the moment...</dd>
 </dl>
 
 <!-- ## 📈 • Statistics 
