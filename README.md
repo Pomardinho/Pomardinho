@@ -15,8 +15,10 @@
 
 ## 📎 • Projects
 <dl>
-	<dd>↳ Nothing, at least right now...</dd>
+	<dd>↳ Borsa Copèrnic ERP</dd>
 </dl>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pomardinho&show_icons=true&locale=en&layout=compact" alt="Pomardinho" /></p>
 
 <!-- ## 📈 • Statistics 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pomardinho&show_icons=true&theme=radical)<br>
