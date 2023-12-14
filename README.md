@@ -18,8 +18,8 @@
 	<dd>↳ Borsa Copèrnic ERP</dd>
 </dl>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pomardinho=anuraghazra&show_icons=true&theme=radical)<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pomardinho&show_icons=true&locale=en&layout=compact" alt="Pomardinho" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pomardinho&show_icons=true&locale=en&layout=compact" alt="Pomardinho" /></p>-->
 
 <!-- ## 📈 • Statistics 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pomardinho&show_icons=true&theme=radical)<br>
