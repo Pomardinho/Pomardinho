@@ -18,7 +18,7 @@
 	<dd>↳ Borsa Copèrnic ERP</dd>
 </dl>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pomardinho&show_icons=true)
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pomardinho&show_icons=true&locale=en&layout=compact" alt="Pomardinho" /></p>-->
 
 <!-- ## 📈 • Statistics 
