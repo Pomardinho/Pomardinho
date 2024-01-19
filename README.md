@@ -11,7 +11,7 @@
 💾 Operating systems<br>
 🖥️ Computer assembly<br>
 👀 Multiplatform applications<br>
-🕹 Java, Javascript, MySQL, HTML, CSS, C#
+🕹 React, Java, Javascript, Tailwind, Springboot, MySQL, MongoDB HTML, CSS, C#
 
 ## 📎 • Projects
 <dl>
