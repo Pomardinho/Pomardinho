@@ -16,6 +16,7 @@
 ## 📎 • Projects
 <dl>
 	<dd>↳ Borsa Copèrnic ERP</dd>
+	<dd>↳ WordBusters</dd>
 </dl>
 
 ## 📈 • Statistics
