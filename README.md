@@ -1,10 +1,10 @@
 # Welcome, I'm Pomardinho! 👋
 ## 👤 A little about myself
-I'm a backend developer with some frontend knowledge.
+I'm a backend developer with some frontend skills.
 
-I started my way as a teenager making small Discord bots and Unity projects. My passion grew as I got older and that led me to take a vocational training for 4 years.
+I began my journey as a teenager creating small Discord bots and Unity projects. My passion deepened as I grew older, leading me to pursue a four-year vocational training program.
 
-At the time, I have 1 year of work experience and have been part of 2 medium-sized projects of which I'm very proud.
+Currently, I have one year of work experience and have been involved in two medium-sized projects that I'm really proud of.
 
 ## 🛠 Skills
 ### Frontend
