@@ -7,7 +7,7 @@ I started my way as a teenager making small Discord bots and Unity projects. My 
 At the time, I have 1 year of work experience and have been part of 2 medium-sized projects of which I'm very proud.
 
 ## 🛠 Skills
-Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-F16524?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A0A0A)
 ![CSS3](https://img.shields.io/badge/CSS3-2465F1?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0A0A)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0A0A0A)
@@ -18,7 +18,7 @@ Frontend
 ![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white&labelColor=0A0A0A)
 ![Static Badge](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0A0A0A)
 
-Backend
+### Backend
 ![Java](https://img.shields.io/badge/Java-5283A2?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0A0A0A)
 ![Hibernate](https://img.shields.io/badge/Hibernate-BDAF7A?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0A0A0A)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0A0A0A)
@@ -29,7 +29,7 @@ Backend
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-366594?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0A0A0A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-17AD55?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0A0A0A)
 
-Others
+### Others
 ![Git](https://img.shields.io/badge/Git-F05639?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)
 ![GitLab](https://img.shields.io/badge/GitLab-E34930?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0A0A0A)
