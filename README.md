@@ -40,10 +40,10 @@ At the time, I have 1 year of work experience and have been part of 2 medium-siz
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-2C3644?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A)
 ## 🔗 Find me here
 ![Static Badge](https://img.shields.io/badge/My%20portfolio-FF6265?style=for-the-badge&logo=kofi&logoColor=white&labelColor=0A0A0A)
-![LinkedIn](https://img.shields.io/badge/Jan%20Pomar%20Serra-1469C7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjan-pomar-serra%2F)
+[![LinkedIn](https://img.shields.io/badge/Jan%20Pomar%20Serra-1469C7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://www.linkedin.com/in/jan-pomar-serra/)
 ![Discord](https://img.shields.io/badge/%40pomardinho-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0A0A)
-![Instagram](https://img.shields.io/badge/%40janpose_04-FF08AB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0A&link=https%3A%2F%2Fwww.instagram.com%2Fjanpose_04%2F)
-![X](https://img.shields.io/badge/%40Pomardinho-080808?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A&link=https%3A%2F%2Ftwitter.com%2FPomardinho)
+[![Instagram](https://img.shields.io/badge/%40janpose_04-FF08AB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0A)](https://www.instagram.com/janpose_04/)
+[![X](https://img.shields.io/badge/%40Pomardinho-080808?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A)](https://twitter.com/Pomardinho)
 
 ## 💻 Projects
 - Borsa Copèrnic
