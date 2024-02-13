@@ -1,4 +1,4 @@
-# Welcome, I'm Pomardinho! 👋
+# Hey, Pomardinho here! 👋
 ## 👤 A little about myself
 I'm a backend developer with some frontend skills.
 
