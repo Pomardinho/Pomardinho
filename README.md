@@ -46,7 +46,7 @@ Currently, I have one year of work experience and have been involved in two medi
 [![X](https://img.shields.io/badge/%40Pomardinho-080808?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A)](https://twitter.com/Pomardinho)
 
 ## 💻 Projects
-- Borsa Copèrnic
+- [Borsa Copèrnic](https://gitlab.com/abp_proyect_copernicjobs/copernicjobs)
 - WordBusters
 ## 📈 Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pomardinho&show_icons=true&rank_icon=github&theme=tokyonight)
