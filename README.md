@@ -47,6 +47,7 @@ Currently, I have one year of work experience and have been involved in two medi
 
 ## 💻 Projects
 - [Borsa Copèrnic](https://gitlab.com/abp_proyect_copernicjobs/copernicjobs)
+- [TopTrail](https://gitlab.com/grupo1920138/toptrail)
 - [WordBusters](https://github.com/Pomardinho/wordbusters)
 ## 📈 Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pomardinho&show_icons=true&rank_icon=github&theme=tokyonight)
