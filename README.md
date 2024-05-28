@@ -33,11 +33,14 @@ Currently, I have one year of work experience and have been involved in two medi
 ![Git](https://img.shields.io/badge/Git-F05639?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)
 ![GitLab](https://img.shields.io/badge/GitLab-E34930?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0A0A0A)
+![Unity](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white&labelColor=0A0A0A)
+![C#](https://img.shields.io/badge/CSharp-853688?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0A0A0A)
 ![Jira](https://img.shields.io/badge/Jira-2D88FF?style=for-the-badge&logo=jira&logoColor=white&labelColor=0A0A0A)
 ![Trello](https://img.shields.io/badge/Trello-2D88FF?style=for-the-badge&logo=trello&logoColor=white&labelColor=0A0A0A)
 ![Figma](https://img.shields.io/badge/Figma-5551FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=0A0A0A)
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0A0A)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-2C3644?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A)
+
 ## 🔗 Find me here
 ![Static Badge](https://img.shields.io/badge/My%20portfolio-FF6265?style=for-the-badge&logo=kofi&logoColor=white&labelColor=0A0A0A)
 [![LinkedIn](https://img.shields.io/badge/Jan%20Pomar%20Serra-1469C7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://www.linkedin.com/in/jan-pomar-serra/)
@@ -48,7 +51,9 @@ Currently, I have one year of work experience and have been involved in two medi
 ## 💻 Projects
 - [Borsa Copèrnic](https://gitlab.com/abp_proyect_copernicjobs/copernicjobs)
 - [TopTrail](https://gitlab.com/grupo1920138/toptrail)
+- [Gateway](https://github.com/Pomardinho/Gateway)
 - [WordBusters](https://github.com/Pomardinho/wordbusters)
+
 ## 📈 Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pomardinho&show_icons=true&rank_icon=github&theme=tokyonight)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pomardinho&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight) -->
